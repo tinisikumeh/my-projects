@@ -1,5 +1,5 @@
-# CS2261
-a collection of projects I worked on in the fall 2022 semester
+# my projects
+a collection of projects I worked on throughout my time at Georgia Tech
 You will need a GBA emulator to play these games
 
 
