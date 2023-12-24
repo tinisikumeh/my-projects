@@ -24,6 +24,8 @@ Right: Moves the store owner right.
 A (will be button Z on laptop): Pick up clothing when in front of table/take order when in front of a customer. B: Gives clothing to customer when in front of customer
 Select: navigate through game state.
 
+Link to Demo: https://mediaspace.gatech.edu/media/Studiorama+Demo/1_0d5htkhd
+
 Music Player 
 ----------------------------------------------------
 https://gba.ninja/?autorun=https://tinisikumeh.github.io/CS2261/MusicPlayer.gba
@@ -34,6 +36,8 @@ https://gba.ninja/?autorun=https://tinisikumeh.github.io/CS2261/MusicPlayer.gba
 -press A (will be button Z on laptop) to turn on music
 
 -use arrow keys to go through songs
+
+Link to Demo: https://mediaspace.gatech.edu/media/Music+Player+Demo/1_td78c7sg
 
 Alien Run
 -----------------------------------------------------------------
