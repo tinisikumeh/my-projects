@@ -11,6 +11,14 @@ a pop up will appear; make sure to click run anyway
 gba.ninja has a list of the controls
 press select to play/ pause the game
 press start to toggle the game instructions (you do this in the game intro)
+---------How To Play-------------
+
+Up: Moves the designer up.
+Down: Moves the designer down.
+Left: Moves the store owner left.
+Right: Moves the store owner right.
+A: Pick up clothing when in front of table/take order when in front of a customer. B: Gives clothing to customer when in front of customer
+Select: navigate through game state.
 
 Music Player 
 ----------------------------------------------------
