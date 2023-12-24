@@ -9,15 +9,19 @@ https://gba.ninja/?autorun=https://tinisikumeh.github.io/CS2261/STUDIORAMA.gba
 a pop up will appear; make sure to click run anyway
 (If this doesn't work, you can download the gba file and load it into gba.ninja to play the game)
 gba.ninja has a list of the controls
-press select to play/ pause the game
-press start to toggle the game instructions (you do this in the game intro)
+press select(will be delete/backspace button on laptop) to play/ pause the game
+press start(return button on laptop) to toggle the game instructions (you do this in the game intro)
 ---------How To Play-------------
 
 Up: Moves the designer up.
+
 Down: Moves the designer down.
+
 Left: Moves the store owner left.
+
 Right: Moves the store owner right.
-A: Pick up clothing when in front of table/take order when in front of a customer. B: Gives clothing to customer when in front of customer
+
+A (will be button Z on laptop): Pick up clothing when in front of table/take order when in front of a customer. B: Gives clothing to customer when in front of customer
 Select: navigate through game state.
 
 Music Player 
@@ -25,9 +29,9 @@ Music Player
 https://gba.ninja/?autorun=https://tinisikumeh.github.io/CS2261/MusicPlayer.gba
 (If this doesn't work, you can download the gba file and load it into gba.ninja to play the game)
 
--press enter to turn on the player 
+-press enter(will be the return button on laptop) to turn on the player 
 
--press a to turn on music
+-press A (will be button Z on laptop) to turn on music
 
 -use arrow keys to go through songs
 
@@ -35,7 +39,10 @@ Alien Run
 -----------------------------------------------------------------
 https://gba.ninja/?autorun=https://tinisikumeh.github.io/CS2261/AlienRun.gba
 (If this doesn't work, you can download the gba file and load it into gba.ninja to play the game)
--press select to play/pause the game -Use arrow keys to move
+-press select to play/pause(will be delete/backspace button on laptop) the game 
+
+-Use arrow keys to move
+
 -You win by making it to the top island
 
 Design Portfolio
