@@ -24,7 +24,8 @@ Music Player
 ----------------------------------------------------
 https://gba.ninja/?autorun=https://tinisikumeh.github.io/CS2261/MusicPlayer.gba
 (If this doesn't work, you can download the gba file and load it into gba.ninja to play the game)
--press enter to turn on the player -press a to turn on music
+-press enter to turn on the player 
+-press a to turn on music
 -use arrow keys to go through songs
 
 Alien Run
